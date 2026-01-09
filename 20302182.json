@@ -6773,19 +6773,6 @@
     "rombongan_belajar_id": "026a7b02-e037-4fb5-99b4-d4d88d278f64"
   },
   {
-    "nama": "FAUSTINA SALMA NABILAH",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2008-12-09",
-    "nama_ibu_kandung": "Siti Rindiyati",
-    "nik": "3302254912080001",
-    "nisn": "0086812258",
-    "last_update": "2025-12-01T11:30:24.357000",
-    "rombel": "XI-04",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "42d2cbfa-3f21-11e5-8ac7-0740f266e70c",
-    "rombongan_belajar_id": "4415d7d5-a1a1-4aed-b9cb-25ebd3af8a40"
-  },
-  {
     "nama": "NAORA RATNA PARAMITHA",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2007-11-27",
@@ -7111,19 +7098,6 @@
     "rombongan_belajar_id": "9b187b73-3131-4e90-a33c-784cb1e219ea"
   },
   {
-    "nama": "ROFIATUL ALIYAH",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2009-12-10",
-    "nama_ibu_kandung": "Kusmiati",
-    "nik": "3303155012090001",
-    "nisn": "0095621536",
-    "last_update": "2025-07-22T00:00:00",
-    "rombel": "X-03",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "9468ba39-4413-418e-8c40-186a39d1bc34",
-    "rombongan_belajar_id": "8d738d3a-30f2-4911-b2bf-d9a66bc8c108"
-  },
-  {
     "nama": "RAHMA HAFIDHATUL HASANAH",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2009-12-20",
@@ -7397,19 +7371,6 @@
     "rombongan_belajar_id": "e77910f4-415d-4fb0-ab26-3b7a97971f91"
   },
   {
-    "nama": "Jessica Luna Tian Sibarani",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2008-01-01",
-    "nama_ibu_kandung": "Anastasia Zherly Rusfita Dewi Rahayu Koewoto",
-    "nik": "3302244101080002",
-    "nisn": "0084153684",
-    "last_update": "2025-09-23T11:30:18.980000",
-    "rombel": "XII M 10",
-    "tingkat": "Kelas 12",
-    "peserta_didik_id": "15f036ee-6f2a-11e4-a2d1-2f20e6a41ee7",
-    "rombongan_belajar_id": "28a530ef-a6ea-4dc6-8099-fbc32a327ae0"
-  },
-  {
     "nama": "Atta Khairul Azzam",
     "jenis_kelamin": "L",
     "tanggal_lahir": "2008-08-16",
@@ -7655,6 +7616,19 @@
     "tingkat": "Kelas 11",
     "peserta_didik_id": "9c0ef1e6-398e-11e5-a831-3f08afff0e44",
     "rombongan_belajar_id": "95de7710-fc42-4b4e-922d-107cd30e9ff2"
+  },
+  {
+    "nama": "DESYAN SANTI MARISKA",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2009-06-29",
+    "nama_ibu_kandung": "LIZA ARYANI",
+    "nik": "3207226606090001",
+    "nisn": "0094513696",
+    "last_update": "2023-02-15T19:34:22.047000",
+    "rombel": "XI-06",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "5813c25a-3b3c-11e5-97a0-3f4c190e3d7d",
+    "rombongan_belajar_id": "611e47c4-fe9d-4f04-a55e-995324537529"
   },
   {
     "nama": "Nada Salsabila",
@@ -8307,6 +8281,19 @@
     "rombongan_belajar_id": "4b9aa93f-861f-4c4f-9f39-722b658e86ee"
   },
   {
+    "nama": "NATANIA DEANDRA HENWIDYANI",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2009-04-06",
+    "nama_ibu_kandung": "HENI ROCHIDAYATI",
+    "nik": "3302274604090003",
+    "nisn": "0099073242",
+    "last_update": "2024-05-22T13:54:40.980000",
+    "rombel": "XI-08",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "fb084068-51e8-11e5-9aa3-67d56b530ebe",
+    "rombongan_belajar_id": "0a7a559d-ad1c-4065-b3d3-5146fa681a58"
+  },
+  {
     "nama": "Wulan Suci Rahmadhani",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2008-09-18",
@@ -8370,19 +8357,6 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "9de4f1be-b684-4de3-8a72-70645a20e868",
     "rombongan_belajar_id": "b4558dbe-b81a-464a-8576-4acec94eba3d"
-  },
-  {
-    "nama": "Muhammad Evan Fakhreza",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2010-07-07",
-    "nama_ibu_kandung": "DEWI PARAWASTI KUSMARINI",
-    "nik": "3302260707100001",
-    "nisn": "0107927243",
-    "last_update": "2025-12-03T11:30:37.510000",
-    "rombel": "X-11",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "1fc466e3-44b0-4f41-877d-38739fcc2122",
-    "rombongan_belajar_id": "2f6dd112-c2f1-45c4-8e68-a57680a83d90"
   },
   {
     "nama": "MUHAMMAD FADHIL",
@@ -8580,19 +8554,6 @@
     "rombongan_belajar_id": "356e6b5a-3da3-45f7-8b0b-555da907ea9e"
   },
   {
-    "nama": "ANANDA FAZA ROSYADA",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2009-12-30",
-    "nama_ibu_kandung": "KUSMILAH",
-    "nik": "3302183012090002",
-    "nisn": "0099789102",
-    "last_update": "2025-12-13T07:11:30.330000",
-    "rombel": "X-06",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "a15d9e24-3cc0-11e5-a58c-7f44a429cdb9",
-    "rombongan_belajar_id": "55c7421d-e909-479b-89a0-925afed69dbc"
-  },
-  {
     "nama": "AULIA SHANTY HARDIANA",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2009-01-15",
@@ -8695,19 +8656,6 @@
     "tingkat": "Kelas 10",
     "peserta_didik_id": "3ae1fdb9-7a68-4dbb-b1a4-4268ceccb368",
     "rombongan_belajar_id": "982ac48b-50e8-444f-862a-ca813ea04890"
-  },
-  {
-    "nama": "Fadiel Maulana Fiqri",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2008-09-02",
-    "nama_ibu_kandung": "Dasimah",
-    "nik": "3302050209080001",
-    "nisn": "0086683494",
-    "last_update": "2023-02-15T19:34:22.047000",
-    "rombel": "XII M 01",
-    "tingkat": "Kelas 12",
-    "peserta_didik_id": "4fc3cdc4-31e3-11e4-9ec2-83d92df090a8",
-    "rombongan_belajar_id": "e77910f4-415d-4fb0-ab26-3b7a97971f91"
   },
   {
     "nama": "Savina Devi Oktaviani",
@@ -9321,6 +9269,19 @@
     "rombongan_belajar_id": "b4558dbe-b81a-464a-8576-4acec94eba3d"
   },
   {
+    "nama": "HAFIS AMARRUDIN",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2009-10-19",
+    "nama_ibu_kandung": "HARTATI",
+    "nik": "3302261910090001",
+    "nisn": "0097724201",
+    "last_update": "2025-07-22T00:00:00",
+    "rombel": "X-01",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "01d5eda7-f930-45ad-94b1-5726753b4ac6",
+    "rombongan_belajar_id": "56277651-c4f0-4891-a337-94d51d0959b3"
+  },
+  {
     "nama": "Ryan Satyanegara Herriyanto",
     "jenis_kelamin": "L",
     "tanggal_lahir": "2011-07-31",
@@ -9566,19 +9527,6 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "a15ab74a-395b-11e4-97a0-bb09f067cb9a",
     "rombongan_belajar_id": "f5efed5a-c522-4d9c-aec8-26dfb9542126"
-  },
-  {
-    "nama": "Varisha Sheenaz Fannani",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2010-05-11",
-    "nama_ibu_kandung": "Diah Rapitasari",
-    "nik": "3302185105100004",
-    "nisn": "0101278145",
-    "last_update": "2025-07-22T00:00:00",
-    "rombel": "X-06",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "4cfc0144-09d5-4c3c-a272-bb1df084c39d",
-    "rombongan_belajar_id": "55c7421d-e909-479b-89a0-925afed69dbc"
   },
   {
     "nama": "ATHA SYAHIRA NAJMI INDRIAWAN",
@@ -10413,6 +10361,19 @@
     "rombongan_belajar_id": "4415d7d5-a1a1-4aed-b9cb-25ebd3af8a40"
   },
   {
+    "nama": "Arditya Tricia Ayuning Surya Putri",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2008-04-20",
+    "nama_ibu_kandung": "ARDIANTI YUDITASARI",
+    "nik": "3302266004080003",
+    "nisn": "0084958406",
+    "last_update": "2025-12-03T11:30:37.510000",
+    "rombel": "XII M 06",
+    "tingkat": "Kelas 12",
+    "peserta_didik_id": "5ff03080-37e6-11e4-b46b-e7586bf068a8",
+    "rombongan_belajar_id": "0a8519ab-e218-4445-adbf-e61d1e9b1e02"
+  },
+  {
     "nama": "KEZIA ANGGUN WIDININGRUM",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2007-10-26",
@@ -10673,6 +10634,19 @@
     "rombongan_belajar_id": "fd75880d-f50e-43d5-ae70-bf670c9a30f4"
   },
   {
+    "nama": "AZARIA PUTRI ARDHYSTY",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2008-11-14",
+    "nama_ibu_kandung": "ARI PURWATI",
+    "nik": "3302265411080001",
+    "nisn": "0082767699",
+    "last_update": "2024-06-10T10:08:43.423000",
+    "rombel": "XI-03",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "22734004-4b9e-11e5-b22f-fb33b8fcfa2d",
+    "rombongan_belajar_id": "fd75880d-f50e-43d5-ae70-bf670c9a30f4"
+  },
+  {
     "nama": "SONIA ADITIYA IKA PUTRI",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2008-06-17",
@@ -10749,6 +10723,19 @@
     "tingkat": "Kelas 11",
     "peserta_didik_id": "909cc996-415e-11e5-a995-fbdc4858400c",
     "rombongan_belajar_id": "0a7a559d-ad1c-4065-b3d3-5146fa681a58"
+  },
+  {
+    "nama": "KIRANI KINANTI SETYAKUSUMA",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2010-02-09",
+    "nama_ibu_kandung": "IPIN YULI TRIKUSUMO",
+    "nik": "3302264902100002",
+    "nisn": "0109449306",
+    "last_update": "2025-07-22T00:00:00",
+    "rombel": "X-04",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "cf617fe7-ba23-4f55-abc1-fedc927af323",
+    "rombongan_belajar_id": "e6accf3b-2ec1-4799-bd51-55755e224bcd"
   },
   {
     "nama": "Reagan Khalfani Awiandra",
@@ -11635,6 +11622,19 @@
     "rombongan_belajar_id": "4b9aa93f-861f-4c4f-9f39-722b658e86ee"
   },
   {
+    "nama": "SAFIRA SALWA SABRINA",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2009-10-26",
+    "nama_ibu_kandung": "Nurti Rahayu",
+    "nik": "3302246610090001",
+    "nisn": "3096425269",
+    "last_update": "2025-07-22T00:00:00",
+    "rombel": "X-03",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "f072000a-33de-4a33-8ddb-51416325569b",
+    "rombongan_belajar_id": "8d738d3a-30f2-4911-b2bf-d9a66bc8c108"
+  },
+  {
     "nama": "HAFIZAH HELGA MAYLANI",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2010-05-10",
@@ -11804,6 +11804,19 @@
     "rombongan_belajar_id": "0a7a559d-ad1c-4065-b3d3-5146fa681a58"
   },
   {
+    "nama": "DEANE EARLENE GARINI",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2010-08-18",
+    "nama_ibu_kandung": "Dorys Day Sihombing",
+    "nik": "3303055808100001",
+    "nisn": "3101838484",
+    "last_update": "2025-12-29T13:42:38.417000",
+    "rombel": "X-03",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "6bcca237-70f1-4898-b4b9-3fa172347ec0",
+    "rombongan_belajar_id": "8d738d3a-30f2-4911-b2bf-d9a66bc8c108"
+  },
+  {
     "nama": "DAVINO ERFANDITYA PRABOWO",
     "jenis_kelamin": "L",
     "tanggal_lahir": "2008-11-21",
@@ -11895,19 +11908,6 @@
     "rombongan_belajar_id": "b4558dbe-b81a-464a-8576-4acec94eba3d"
   },
   {
-    "nama": "Linda Kamilah Pribadi",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2009-08-01",
-    "nama_ibu_kandung": "Harti Suslina",
-    "nik": "3302104108090001",
-    "nisn": "0095396755",
-    "last_update": "2023-03-01T09:30:14.947000",
-    "rombel": "XI-11",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "8e9b532e-3880-11e5-8091-2311b196a5e6",
-    "rombongan_belajar_id": "8de85250-2928-478b-9b40-ef2b478c8ac6"
-  },
-  {
     "nama": "REVI TRI ANDITA",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2010-01-23",
@@ -11971,19 +11971,6 @@
     "tingkat": "Kelas 10",
     "peserta_didik_id": "257e60ac-edaa-49c5-82fa-6f990e0058a9",
     "rombongan_belajar_id": "982ac48b-50e8-444f-862a-ca813ea04890"
-  },
-  {
-    "nama": "Jedy Viaraldo Pratama",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2009-08-10",
-    "nama_ibu_kandung": "Jeni Arofah",
-    "nik": "3276101008090005",
-    "nisn": "0096678071",
-    "last_update": "2023-06-10T04:30:37.673000",
-    "rombel": "XI-11",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "45b331ce-4a71-11e5-912d-9ff39d725f04",
-    "rombongan_belajar_id": "8de85250-2928-478b-9b40-ef2b478c8ac6"
   },
   {
     "nama": "ALVARO NOVAL PUTRA MARTIONO",
@@ -12064,19 +12051,6 @@
     "rombongan_belajar_id": "282824b2-ccd4-4f7b-aab0-00143e1c6528"
   },
   {
-    "nama": "NAURAH AYU PUTRI",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2008-11-06",
-    "nama_ibu_kandung": "Vilia Sari",
-    "nik": "3302244611080001",
-    "nisn": "0089961442",
-    "last_update": "2024-06-07T14:57:15.153000",
-    "rombel": "XI-06",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "144fa77a-43e1-11e5-bc0e-1723cd9a60a0",
-    "rombongan_belajar_id": "611e47c4-fe9d-4f04-a55e-995324537529"
-  },
-  {
     "nama": "Rekka Dwi Pamungkas",
     "jenis_kelamin": "L",
     "tanggal_lahir": "2007-09-09",
@@ -12140,6 +12114,19 @@
     "tingkat": "Kelas 10",
     "peserta_didik_id": "bc8ce7b2-7476-4783-a8f3-3877ec204d60",
     "rombongan_belajar_id": "982ac48b-50e8-444f-862a-ca813ea04890"
+  },
+  {
+    "nama": "DAVI CATUR SAPUTRA",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2009-03-19",
+    "nama_ibu_kandung": "SRI RAHAYU",
+    "nik": "3302241903090001",
+    "nisn": "0093426007",
+    "last_update": "2025-07-22T00:00:00",
+    "rombel": "X-09",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "806ce0bc-483a-4c8b-b486-3e1dacf685c1",
+    "rombongan_belajar_id": "282824b2-ccd4-4f7b-aab0-00143e1c6528"
   },
   {
     "nama": "Nazira Akmalia Zulfa",
@@ -12909,6 +12896,19 @@
     "rombongan_belajar_id": "2f6dd112-c2f1-45c4-8e68-a57680a83d90"
   },
   {
+    "nama": "Syah Zaenal Abidin",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2008-08-04",
+    "nama_ibu_kandung": "Emi Ambarsari",
+    "nik": "3302260408080003",
+    "nisn": "0084794481",
+    "last_update": "2025-09-27T09:30:21.140000",
+    "rombel": "XII M 04",
+    "tingkat": "Kelas 12",
+    "peserta_didik_id": "377dae4c-394f-11e4-9f36-b7658956f016",
+    "rombongan_belajar_id": "9b187b73-3131-4e90-a33c-784cb1e219ea"
+  },
+  {
     "nama": "TALULA ALAMI",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2008-07-27",
@@ -13325,6 +13325,19 @@
     "rombongan_belajar_id": "db5a8f3c-5e80-4b44-93f6-8f6f4fe2abde"
   },
   {
+    "nama": "FAUSTINA SALMA NABILAH",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2008-12-09",
+    "nama_ibu_kandung": "Siti Rindiyati",
+    "nik": "3302254912080001",
+    "nisn": "0086812258",
+    "last_update": "2025-12-01T11:30:24.357000",
+    "rombel": "XI-04",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "42d2cbfa-3f21-11e5-8ac7-0740f266e70c",
+    "rombongan_belajar_id": "4415d7d5-a1a1-4aed-b9cb-25ebd3af8a40"
+  },
+  {
     "nama": "KEYZIA ARNELITA VALENTINA",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2009-02-14",
@@ -13414,6 +13427,19 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "6efd9454-bf1e-45c6-a1a5-1795b58ef8b5",
     "rombongan_belajar_id": "1e86b732-0f1c-4da4-862b-c2ec7d2e99a8"
+  },
+  {
+    "nama": "ROFIATUL ALIYAH",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2009-12-10",
+    "nama_ibu_kandung": "Kusmiati",
+    "nik": "3303155012090001",
+    "nisn": "0095621536",
+    "last_update": "2025-07-22T00:00:00",
+    "rombel": "X-03",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "9468ba39-4413-418e-8c40-186a39d1bc34",
+    "rombongan_belajar_id": "8d738d3a-30f2-4911-b2bf-d9a66bc8c108"
   },
   {
     "nama": "SABRINA AMABEL ASHINTYAPUTRI",
@@ -13507,6 +13533,19 @@
     "rombongan_belajar_id": "95de7710-fc42-4b4e-922d-107cd30e9ff2"
   },
   {
+    "nama": "Jessica Luna Tian Sibarani",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2008-01-01",
+    "nama_ibu_kandung": "Anastasia Zherly Rusfita Dewi Rahayu Koewoto",
+    "nik": "3302244101080002",
+    "nisn": "0084153684",
+    "last_update": "2025-09-23T11:30:18.980000",
+    "rombel": "XII M 10",
+    "tingkat": "Kelas 12",
+    "peserta_didik_id": "15f036ee-6f2a-11e4-a2d1-2f20e6a41ee7",
+    "rombongan_belajar_id": "28a530ef-a6ea-4dc6-8099-fbc32a327ae0"
+  },
+  {
     "nama": "KAYLA KHANSA'AQILA RAHMAPUTRI",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2009-06-14",
@@ -13570,19 +13609,6 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "5e744832-3b3c-11e4-9c05-3783d6704190",
     "rombongan_belajar_id": "026a7b02-e037-4fb5-99b4-d4d88d278f64"
-  },
-  {
-    "nama": "DESYAN SANTI MARISKA",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2009-06-29",
-    "nama_ibu_kandung": "LIZA ARYANI",
-    "nik": "3207226606090001",
-    "nisn": "0094513696",
-    "last_update": "2023-02-15T19:34:22.047000",
-    "rombel": "XI-06",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "5813c25a-3b3c-11e5-97a0-3f4c190e3d7d",
-    "rombongan_belajar_id": "611e47c4-fe9d-4f04-a55e-995324537529"
   },
   {
     "nama": "Argana Satria Rullyanto",
@@ -13793,19 +13819,6 @@
     "rombongan_belajar_id": "82f35da3-ce77-499b-b423-a6694e7b2196"
   },
   {
-    "nama": "NATANIA DEANDRA HENWIDYANI",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2009-04-06",
-    "nama_ibu_kandung": "HENI ROCHIDAYATI",
-    "nik": "3302274604090003",
-    "nisn": "0099073242",
-    "last_update": "2024-05-22T13:54:40.980000",
-    "rombel": "XI-08",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "fb084068-51e8-11e5-9aa3-67d56b530ebe",
-    "rombongan_belajar_id": "0a7a559d-ad1c-4065-b3d3-5146fa681a58"
-  },
-  {
     "nama": "Mayla Najl Yodia Budiarto",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2008-05-30",
@@ -13830,6 +13843,19 @@
     "tingkat": "Kelas 10",
     "peserta_didik_id": "715f096a-9500-4c5b-a8e8-6bd30efd4b4c",
     "rombongan_belajar_id": "e6accf3b-2ec1-4799-bd51-55755e224bcd"
+  },
+  {
+    "nama": "Muhammad Evan Fakhreza",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2010-07-07",
+    "nama_ibu_kandung": "DEWI PARAWASTI KUSMARINI",
+    "nik": "3302260707100001",
+    "nisn": "0107927243",
+    "last_update": "2025-12-03T11:30:37.510000",
+    "rombel": "X-11",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "1fc466e3-44b0-4f41-877d-38739fcc2122",
+    "rombongan_belajar_id": "2f6dd112-c2f1-45c4-8e68-a57680a83d90"
   },
   {
     "nama": "ZIDAN ARKANA SAFARAZ",
@@ -13868,6 +13894,19 @@
     "rombel": "X-06",
     "tingkat": "Kelas 10",
     "peserta_didik_id": "492bd863-c983-467d-b692-77d81d682a3b",
+    "rombongan_belajar_id": "55c7421d-e909-479b-89a0-925afed69dbc"
+  },
+  {
+    "nama": "ANANDA FAZA ROSYADA",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2009-12-30",
+    "nama_ibu_kandung": "KUSMILAH",
+    "nik": "3302183012090002",
+    "nisn": "0099789102",
+    "last_update": "2025-12-13T07:11:30.330000",
+    "rombel": "X-06",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "a15d9e24-3cc0-11e5-a58c-7f44a429cdb9",
     "rombongan_belajar_id": "55c7421d-e909-479b-89a0-925afed69dbc"
   },
   {
@@ -13921,6 +13960,19 @@
     "tingkat": "Kelas 11",
     "peserta_didik_id": "9fc7a75c-3d98-11e5-bc5b-83d0e9bd5ae8",
     "rombongan_belajar_id": "611e47c4-fe9d-4f04-a55e-995324537529"
+  },
+  {
+    "nama": "Fadiel Maulana Fiqri",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2008-09-02",
+    "nama_ibu_kandung": "Dasimah",
+    "nik": "3302050209080001",
+    "nisn": "0086683494",
+    "last_update": "2023-02-15T19:34:22.047000",
+    "rombel": "XII M 01",
+    "tingkat": "Kelas 12",
+    "peserta_didik_id": "4fc3cdc4-31e3-11e4-9ec2-83d92df090a8",
+    "rombongan_belajar_id": "e77910f4-415d-4fb0-ab26-3b7a97971f91"
   },
   {
     "nama": "Tangguh Duaji Bramantya",
@@ -14131,19 +14183,6 @@
     "rombongan_belajar_id": "356e6b5a-3da3-45f7-8b0b-555da907ea9e"
   },
   {
-    "nama": "HAFIS AMARRUDIN",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2009-10-19",
-    "nama_ibu_kandung": "HARTATI",
-    "nik": "3302261910090001",
-    "nisn": "0097724201",
-    "last_update": "2025-07-22T00:00:00",
-    "rombel": "X-01",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "01d5eda7-f930-45ad-94b1-5726753b4ac6",
-    "rombongan_belajar_id": "56277651-c4f0-4891-a337-94d51d0959b3"
-  },
-  {
     "nama": "NADYA DAMAYANTI SIMAMORA",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2008-11-28",
@@ -14168,6 +14207,19 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "a370c0ca-3a7c-11e4-ad84-5b1985241da9",
     "rombongan_belajar_id": "9b187b73-3131-4e90-a33c-784cb1e219ea"
+  },
+  {
+    "nama": "Varisha Sheenaz Fannani",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2010-05-11",
+    "nama_ibu_kandung": "Diah Rapitasari",
+    "nik": "3302185105100004",
+    "nisn": "0101278145",
+    "last_update": "2025-07-22T00:00:00",
+    "rombel": "X-06",
+    "tingkat": "Kelas 10",
+    "peserta_didik_id": "4cfc0144-09d5-4c3c-a272-bb1df084c39d",
+    "rombongan_belajar_id": "55c7421d-e909-479b-89a0-925afed69dbc"
   },
   {
     "nama": "Aprinda Rizki Dwi Putra",
@@ -14326,19 +14378,6 @@
     "rombongan_belajar_id": "2f6dd112-c2f1-45c4-8e68-a57680a83d90"
   },
   {
-    "nama": "Arditya Tricia Ayuning Surya Putri",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2008-04-20",
-    "nama_ibu_kandung": "ARDIANTI YUDITASARI",
-    "nik": "3302266004080003",
-    "nisn": "0084958406",
-    "last_update": "2025-12-03T11:30:37.510000",
-    "rombel": "XII M 06",
-    "tingkat": "Kelas 12",
-    "peserta_didik_id": "5ff03080-37e6-11e4-b46b-e7586bf068a8",
-    "rombongan_belajar_id": "0a8519ab-e218-4445-adbf-e61d1e9b1e02"
-  },
-  {
     "nama": "RIFA DESI SAFITRI",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2009-12-02",
@@ -14402,32 +14441,6 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "51b32c24-3800-11e4-8165-7b88358a3b6f",
     "rombongan_belajar_id": "82f35da3-ce77-499b-b423-a6694e7b2196"
-  },
-  {
-    "nama": "AZARIA PUTRI ARDHYSTY",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2008-11-14",
-    "nama_ibu_kandung": "ARI PURWATI",
-    "nik": "3302265411080001",
-    "nisn": "0082767699",
-    "last_update": "2024-06-10T10:08:43.423000",
-    "rombel": "XI-03",
-    "tingkat": "Kelas 11",
-    "peserta_didik_id": "22734004-4b9e-11e5-b22f-fb33b8fcfa2d",
-    "rombongan_belajar_id": "fd75880d-f50e-43d5-ae70-bf670c9a30f4"
-  },
-  {
-    "nama": "KIRANI KINANTI SETYAKUSUMA",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2010-02-09",
-    "nama_ibu_kandung": "IPIN YULI TRIKUSUMO",
-    "nik": "3302264902100002",
-    "nisn": "0109449306",
-    "last_update": "2025-07-22T00:00:00",
-    "rombel": "X-04",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "cf617fe7-ba23-4f55-abc1-fedc927af323",
-    "rombongan_belajar_id": "e6accf3b-2ec1-4799-bd51-55755e224bcd"
   },
   {
     "nama": "RADHITIA AIDANADI KUSUMAH",
@@ -14638,19 +14651,6 @@
     "rombongan_belajar_id": "3ea33288-f438-48dc-8e26-abd5d5a7c05f"
   },
   {
-    "nama": "SAFIRA SALWA SABRINA",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2009-10-26",
-    "nama_ibu_kandung": "Nurti Rahayu",
-    "nik": "3302246610090001",
-    "nisn": "3096425269",
-    "last_update": "2025-07-22T00:00:00",
-    "rombel": "X-03",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "f072000a-33de-4a33-8ddb-51416325569b",
-    "rombongan_belajar_id": "8d738d3a-30f2-4911-b2bf-d9a66bc8c108"
-  },
-  {
     "nama": "HUMAIRA ZALFA ANANDAYNI",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2010-01-23",
@@ -14675,19 +14675,6 @@
     "tingkat": "Kelas 10",
     "peserta_didik_id": "22013d2c-2019-4e3a-b409-4dea9c9b521c",
     "rombongan_belajar_id": "db5a8f3c-5e80-4b44-93f6-8f6f4fe2abde"
-  },
-  {
-    "nama": "DEANE EARLENE GARINI",
-    "jenis_kelamin": "P",
-    "tanggal_lahir": "2010-08-18",
-    "nama_ibu_kandung": "Dorys Day Sihombing",
-    "nik": "3303055808100001",
-    "nisn": "3101838484",
-    "last_update": "2025-12-29T13:42:38.417000",
-    "rombel": "X-03",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "6bcca237-70f1-4898-b4b9-3fa172347ec0",
-    "rombongan_belajar_id": "8d738d3a-30f2-4911-b2bf-d9a66bc8c108"
   },
   {
     "nama": "KHANSA AZWI KHAIRUNNISA",
@@ -14729,6 +14716,19 @@
     "rombongan_belajar_id": "1e86b732-0f1c-4da4-862b-c2ec7d2e99a8"
   },
   {
+    "nama": "Linda Kamilah Pribadi",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2009-08-01",
+    "nama_ibu_kandung": "Harti Suslina",
+    "nik": "3302104108090001",
+    "nisn": "0095396755",
+    "last_update": "2023-03-01T09:30:14.947000",
+    "rombel": "XI-11",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "8e9b532e-3880-11e5-8091-2311b196a5e6",
+    "rombongan_belajar_id": "8de85250-2928-478b-9b40-ef2b478c8ac6"
+  },
+  {
     "nama": "ABYAN RISKIA AJI",
     "jenis_kelamin": "L",
     "tanggal_lahir": "2009-11-19",
@@ -14740,6 +14740,19 @@
     "tingkat": "Kelas 10",
     "peserta_didik_id": "368abca1-088c-4263-8f54-20f8294e9b39",
     "rombongan_belajar_id": "282824b2-ccd4-4f7b-aab0-00143e1c6528"
+  },
+  {
+    "nama": "Jedy Viaraldo Pratama",
+    "jenis_kelamin": "L",
+    "tanggal_lahir": "2009-08-10",
+    "nama_ibu_kandung": "Jeni Arofah",
+    "nik": "3276101008090005",
+    "nisn": "0096678071",
+    "last_update": "2023-06-10T04:30:37.673000",
+    "rombel": "XI-11",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "45b331ce-4a71-11e5-912d-9ff39d725f04",
+    "rombongan_belajar_id": "8de85250-2928-478b-9b40-ef2b478c8ac6"
   },
   {
     "nama": "ATHA HAVY RAJASWA",
@@ -14781,6 +14794,19 @@
     "rombongan_belajar_id": "fd75880d-f50e-43d5-ae70-bf670c9a30f4"
   },
   {
+    "nama": "NAURAH AYU PUTRI",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "2008-11-06",
+    "nama_ibu_kandung": "Vilia Sari",
+    "nik": "3302244611080001",
+    "nisn": "0089961442",
+    "last_update": "2024-06-07T14:57:15.153000",
+    "rombel": "XI-06",
+    "tingkat": "Kelas 11",
+    "peserta_didik_id": "144fa77a-43e1-11e5-bc0e-1723cd9a60a0",
+    "rombongan_belajar_id": "611e47c4-fe9d-4f04-a55e-995324537529"
+  },
+  {
     "nama": "LAYLA GHINA CAMELIA",
     "jenis_kelamin": "P",
     "tanggal_lahir": "2008-06-16",
@@ -14805,19 +14831,6 @@
     "tingkat": "Kelas 12",
     "peserta_didik_id": "5a7c59de-41ad-4bce-b3c3-5a095bebc3c5",
     "rombongan_belajar_id": "9b187b73-3131-4e90-a33c-784cb1e219ea"
-  },
-  {
-    "nama": "DAVI CATUR SAPUTRA",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2009-03-19",
-    "nama_ibu_kandung": "SRI RAHAYU",
-    "nik": "3302241903090001",
-    "nisn": "0093426007",
-    "last_update": "2025-07-22T00:00:00",
-    "rombel": "X-09",
-    "tingkat": "Kelas 10",
-    "peserta_didik_id": "806ce0bc-483a-4c8b-b486-3e1dacf685c1",
-    "rombongan_belajar_id": "282824b2-ccd4-4f7b-aab0-00143e1c6528"
   },
   {
     "nama": "BASEL KINZA LUBAID",
@@ -15039,19 +15052,6 @@
     "tingkat": "Kelas 11",
     "peserta_didik_id": "48117fb8-3efd-11e5-91eb-cb0622ae8a33",
     "rombongan_belajar_id": "02da6957-a6af-4a77-9fbf-7937adad19d5"
-  },
-  {
-    "nama": "Syah Zaenal Abidin",
-    "jenis_kelamin": "L",
-    "tanggal_lahir": "2008-08-04",
-    "nama_ibu_kandung": "Emi Ambarsari",
-    "nik": "3302260408080003",
-    "nisn": "0084794481",
-    "last_update": "2025-09-27T09:30:21.140000",
-    "rombel": "XII M 04",
-    "tingkat": "Kelas 12",
-    "peserta_didik_id": "377dae4c-394f-11e4-9f36-b7658956f016",
-    "rombongan_belajar_id": "9b187b73-3131-4e90-a33c-784cb1e219ea"
   },
   {
     "nama": "Defta Vanunu Pamungkas Putra",
